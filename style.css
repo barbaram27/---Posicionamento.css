@@ -1,0 +1,20 @@
+/* 1. Define o .page-wrapper como referência para posicionamento */
+.page-wrapper {
+  position: relative;
+}
+
+/* 2. Estiliza o painel .explanation */
+.explanation {
+  width: 60%;
+  margin-right: 35%;
+  border-right: 1px solid #1f295c;
+  padding-right: 2%;
+}
+
+/* 3. Posiciona o menu .design-selection na direita */
+.design-selection {
+  position: absolute;
+  top: 560px;
+  left: 62%;
+  padding: 0 2%;
+}
